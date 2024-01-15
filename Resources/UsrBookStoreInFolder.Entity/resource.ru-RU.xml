@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="BookStore в группе" />
+			<Item Name="Columns.Folder.Caption" Value="Группа BookStore" />
+			<Item Name="Columns.UsrBookStore.Caption" Value="BookStore" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

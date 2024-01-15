@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ab38693a-0004-43f5-9c25-b41282414527",
+    "Name": "UsrBookStore",
+    "ModifiedOnUtc": "\/Date(1702026320000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "BookStore",
+    "DependsOn": []
+  }
+}

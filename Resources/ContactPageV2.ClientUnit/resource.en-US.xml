@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
+			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik00LjYwNyAxMC41MjljLTEuNTM1LjQ1OC0yLjU5MSAxLjk5LTIuNjA3IDMuNjQ4di4wMWMwIDEuNDE0LjQ5NyAyLjYzIDEuMzYxIDMuNDk0Ljg2Mi44NiAyLjAzNSAxLjMxOSAzLjI5IDEuMzE5aDEwLjI1N0MxOS44NTYgMTkgMjIgMTYuMjc2IDIyIDEzLjI0M2MwLTMuMDMzLTIuMTQ0LTUuNzU3LTUuMDkyLTUuNzU3YTQuNTkgNC41OSAwIDAgMC0xLjk0My40MjdjLS44NDItMS42NC0yLjIxMi0yLjYtNC4wNjMtMi44NkM3LjcgNC42IDQuOTUzIDcuMDg3IDQuNjExIDEwLjM2N2ExLjAwNyAxLjAwNyAwIDAgMC0uMDA0LjE2em0xLjk5NS4wMzFjMS40MS40OCAyLjM0MiAxLjkxNSAyLjMyNyAzLjQ5YTEgMSAwIDEgMS0yLS4wMTljLjAxLTEuMDM3LS43MTEtMS42Ni0xLjQwOS0xLjY0LS43MzcuMDIyLTEuNTA4Ljc0Ni0xLjUyIDEuOC4wMDEuOTMxLjMyIDEuNjIuNzc1IDIuMDc1LjQ2LjQ2IDEuMTEyLjczNCAxLjg3Ni43MzRoMTAuMjU3QzE4LjQ4IDE3IDIwIDE1LjQ2NSAyMCAxMy4yNDNjMC0yLjIyMS0xLjUyLTMuNzU3LTMuMDkyLTMuNzU3cy0zLjA5MiAxLjUzNi0zLjA5MiAzLjc1N2ExIDEgMCAxIDEtMiAwYzAtMS41NjMuNTctMy4wNDUgMS41MjYtNC4xMTNhMS4wMDYgMS4wMDYgMCAwIDEtLjA2OC0uMTIzYy0uNTQzLTEuMTc4LTEuMzc4LTEuNzk1LTIuNjUxLTEuOTc0LTEuOTA0LS4yNy0zLjc3MSAxLjIwMi00LjAyMSAzLjUyN3oiIGZpbGw9IiNGOTc2M0QiLz48cGF0aCBkPSJNOC45MyAxNC4wNWMuMDE0LTEuNTc1LS45MTgtMy4wMS0yLjMyOC0zLjQ5LjI1LTIuMzI1IDIuMTE3LTMuNzk2IDQuMDItMy41MjcgMS4yNzQuMTggMi4xMDkuNzk2IDIuNjUyIDEuOTc0LjAyLjA0My4wNDMuMDg0LjA2OC4xMjMtLjk1NiAxLjA2OC0xLjUyNiAyLjU1LTEuNTI2IDQuMTEzYTEgMSAwIDAgMCAyIDBjMC0yLjIyMSAxLjUyLTMuNzU3IDMuMDkyLTMuNzU3UzIwIDExLjAyMiAyMCAxMy4yNDNDMjAgMTUuNDY1IDE4LjQ4IDE3IDE2LjkwOCAxN0g2LjY1MWMtLjc2NCAwLTEuNDE2LS4yNzUtMS44NzYtLjczNC0uNDU1LS40NTQtLjc3NC0xLjE0NC0uNzc1LTIuMDc0LjAxMi0xLjA1NS43ODMtMS43OCAxLjUyLTEuODAxLjY5OC0uMDIgMS40Mi42MDMgMS40MSAxLjY0YTEgMSAwIDEgMCAyIC4wMnoiIGZpbGw9IiNGOTc2M0QiLz48cGF0aCBkPSJtOSAxMy4yODYgMi4yODYgMi4yODVNMTEuMjg2IDE1LjU3MSAxNS40IDExIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Percentage of profile completion. Click on the indicator to view which data you need to complete the profile." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Profile complete" />
+			<Item Name="LocalizableStrings.ContactPageGeneralDetailCaption.Value" Value="General information" />
+			<Item Name="LocalizableStrings.EngagementTabTabCaption.Value" Value="Engagement" />
+			<Item Name="LocalizableStrings.EnrichCloudCaption.Value" Value="New data found" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.FieldValidationMessage.Value" Value="Fields:" />
+			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="Update with social networks data" />
+			<Item Name="LocalizableStrings.FormSubmitDetailDetailCaptionOnPage.Value" Value="Submitted forms" />
+			<Item Name="LocalizableStrings.RelationshipTabCaption.Value" Value="Connected to" />
+			<Item Name="LocalizableStrings.StandardErrorCaption.Value" Value="Error filling column. See input rule settings." />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Follow the feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="You are now following feed: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.TouchDetailDetailCaptionOnPage.Value" Value="Web sessions" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Unfollow the feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="You have stopped following feed: {0}" />
+			<Item Name="LocalizableStrings.ValidationMessage.Value" Value="filled in violation of the established validation conditions." />
+		</Items>
+	</Group>
+</Resources>

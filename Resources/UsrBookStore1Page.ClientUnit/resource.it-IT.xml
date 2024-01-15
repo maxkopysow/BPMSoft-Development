@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;BookStore&quot;" />
+			<Item Name="LocalizableStrings.UsrSchemafc70a768Detail48ee0616DetailCaptionOnPage.Value" Value="Object" />
+			<Item Name="LocalizableStrings.WorkingWeekDetail78c1e228DetailCaptionOnPage.Value" Value="Settimana lavorativa" />
+		</Items>
+	</Group>
+</Resources>

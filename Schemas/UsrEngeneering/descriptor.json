@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "95c5c03d-f6e1-4f40-bc25-6acae192b8d7",
+    "Name": "UsrEngeneering",
+    "ModifiedOnUtc": "\/Date(1702018961000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": " Инженерия",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "df473834-1f89-0d4a-ae2b-5e6703146d82",
+    "Name": "GetUserInderectRoles",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1702052321000)\/",
+    "DependsOn": []
+  }
+}

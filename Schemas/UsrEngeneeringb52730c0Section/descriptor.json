@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "bf9633e9-f293-424e-8ecd-06bb4d970a2a",
+    "Name": "UsrEngeneeringb52730c0Section",
+    "ModifiedOnUtc": "\/Date(1702018954000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \" Инженерия\"",
+    "DependsOn": []
+  }
+}

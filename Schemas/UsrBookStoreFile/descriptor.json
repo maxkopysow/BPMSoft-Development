@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "baac6d58-e61e-42c1-a121-612d77a05103",
+    "Name": "UsrBookStoreFile",
+    "ModifiedOnUtc": "\/Date(1702021334000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта BookStore",
+    "DependsOn": []
+  }
+}

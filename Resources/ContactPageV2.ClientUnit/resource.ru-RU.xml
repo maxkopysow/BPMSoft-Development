@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
+			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik00LjYwNyAxMC41MjljLTEuNTM1LjQ1OC0yLjU5MSAxLjk5LTIuNjA3IDMuNjQ4di4wMWMwIDEuNDE0LjQ5NyAyLjYzIDEuMzYxIDMuNDk0Ljg2Mi44NiAyLjAzNSAxLjMxOSAzLjI5IDEuMzE5aDEwLjI1N0MxOS44NTYgMTkgMjIgMTYuMjc2IDIyIDEzLjI0M2MwLTMuMDMzLTIuMTQ0LTUuNzU3LTUuMDkyLTUuNzU3YTQuNTkgNC41OSAwIDAgMC0xLjk0My40MjdjLS44NDItMS42NC0yLjIxMi0yLjYtNC4wNjMtMi44NkM3LjcgNC42IDQuOTUzIDcuMDg3IDQuNjExIDEwLjM2N2ExLjAwNyAxLjAwNyAwIDAgMC0uMDA0LjE2em0xLjk5NS4wMzFjMS40MS40OCAyLjM0MiAxLjkxNSAyLjMyNyAzLjQ5YTEgMSAwIDEgMS0yLS4wMTljLjAxLTEuMDM3LS43MTEtMS42Ni0xLjQwOS0xLjY0LS43MzcuMDIyLTEuNTA4Ljc0Ni0xLjUyIDEuOC4wMDEuOTMxLjMyIDEuNjIuNzc1IDIuMDc1LjQ2LjQ2IDEuMTEyLjczNCAxLjg3Ni43MzRoMTAuMjU3QzE4LjQ4IDE3IDIwIDE1LjQ2NSAyMCAxMy4yNDNjMC0yLjIyMS0xLjUyLTMuNzU3LTMuMDkyLTMuNzU3cy0zLjA5MiAxLjUzNi0zLjA5MiAzLjc1N2ExIDEgMCAxIDEtMiAwYzAtMS41NjMuNTctMy4wNDUgMS41MjYtNC4xMTNhMS4wMDYgMS4wMDYgMCAwIDEtLjA2OC0uMTIzYy0uNTQzLTEuMTc4LTEuMzc4LTEuNzk1LTIuNjUxLTEuOTc0LTEuOTA0LS4yNy0zLjc3MSAxLjIwMi00LjAyMSAzLjUyN3oiIGZpbGw9IiNGOTc2M0QiLz48cGF0aCBkPSJNOC45MyAxNC4wNWMuMDE0LTEuNTc1LS45MTgtMy4wMS0yLjMyOC0zLjQ5LjI1LTIuMzI1IDIuMTE3LTMuNzk2IDQuMDItMy41MjcgMS4yNzQuMTggMi4xMDkuNzk2IDIuNjUyIDEuOTc0LjAyLjA0My4wNDMuMDg0LjA2OC4xMjMtLjk1NiAxLjA2OC0xLjUyNiAyLjU1LTEuNTI2IDQuMTEzYTEgMSAwIDAgMCAyIDBjMC0yLjIyMSAxLjUyLTMuNzU3IDMuMDkyLTMuNzU3UzIwIDExLjAyMiAyMCAxMy4yNDNDMjAgMTUuNDY1IDE4LjQ4IDE3IDE2LjkwOCAxN0g2LjY1MWMtLjc2NCAwLTEuNDE2LS4yNzUtMS44NzYtLjczNC0uNDU1LS40NTQtLjc3NC0xLjE0NC0uNzc1LTIuMDc0LjAxMi0xLjA1NS43ODMtMS43OCAxLjUyLTEuODAxLjY5OC0uMDIgMS40Mi42MDMgMS40MSAxLjY0YTEgMSAwIDEgMCAyIC4wMnoiIGZpbGw9IiNGOTc2M0QiLz48cGF0aCBkPSJtOSAxMy4yODYgMi4yODYgMi4yODVNMTEuMjg2IDE1LjU3MSAxNS40IDExIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+" />
+			<Item Name="Images.a3ad2cc6-6314-426f-ade2-c793b31a8986.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzEwNTNfMTY3ODMwKSI+CjxwYXRoIGQ9Ik0yMC43NDIgNy41MzI4OUMyMC45MTU1IDUuMTAzNzMgMTguODk2NCAzLjA4NDU2IDE2LjQ2NzIgMy4yNTgwN0wxMS44OTgyIDMuNTg0NDNDMTAuOTM4MyAzLjY1MyAxMC4wMzUyIDQuMDY1MzQgOS4zNTQ3NSA0Ljc0NTg0TDQuODA3MzkgOS4yOTMyQzMuMjQ1MjkgMTAuODU1MyAzLjI0NTI5IDEzLjM4OCA0LjgwNzM4IDE0Ljk1MDFMNS4wMjQ5NiAxNS4xNjc2TDYuOTI4NzEgMTcuMDcxNEw4LjgzMjQ1IDE4Ljk3NTFMOS4wNTAwMyAxOS4xOTI3QzEwLjYxMjEgMjAuNzU0OCAxMy4xNDQ4IDIwLjc1NDggMTQuNzA2OSAxOS4xOTI3TDE5LjI1NDIgMTQuNjQ1M0MxOS45MzQ3IDEzLjk2NDggMjAuMzQ3MSAxMy4wNjE4IDIwLjQxNTcgMTIuMTAxOUwyMC43NDIgNy41MzI4OVoiIHN0cm9rZT0iIzY3NzQ4RSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0ic3F1YXJlIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGQ9Ik0xMy45OTk4IDkuOTk5OTdDMTQuNzgwOSAxMC43ODEgMTYuMDQ3MiAxMC43ODEgMTYuODI4MyA5Ljk5OTk2QzE3LjYwOTMgOS4yMTg5MiAxNy42MDkzIDcuOTUyNTkgMTYuODI4MyA3LjE3MTU0QzE2LjA0NzIgNi4zOTA0OSAxNC43ODA5IDYuMzkwNDkgMTMuOTk5OCA3LjE3MTU0QzEzLjIxODggNy45NTI1OSAxMy4yMTg4IDkuMjE4OTIgMTMuOTk5OCA5Ljk5OTk3WiIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CjwvZz4KPGRlZnM+CjxjbGlwUGF0aCBpZD0iY2xpcDBfMTA1M18xNjc4MzAiPgo8cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IndoaXRlIi8+CjwvY2xpcFBhdGg+CjwvZGVmcz4KPC9zdmc+Cg==" />
+			<Item Name="LocalizableStrings.addItemCaption.Value" Value="addItemCaption" />
+			<Item Name="LocalizableStrings.CompletenessHint.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Степень наполненности данными профиля. Нажмите на шкалу, чтобы посмотреть, каких данных не хватает в профиле." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Полнота профиля" />
+			<Item Name="LocalizableStrings.ContactPageGeneralDetailCaption.Value" Value="Общая информация" />
+			<Item Name="LocalizableStrings.deleteItemCaption.Value" Value="deleteItemCaption" />
+			<Item Name="LocalizableStrings.EngagementTabTabCaption.Value" Value="Привлечение" />
+			<Item Name="LocalizableStrings.EnrichCloudCaption.Value" Value="Найдены данные" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Лента" />
+			<Item Name="LocalizableStrings.FieldValidationMessage.Value" Value="Поля:" />
+			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="Обогатить данными из соц. сетей" />
+			<Item Name="LocalizableStrings.FormSubmitDetailDetailCaptionOnPage.Value" Value="Заполненные веб-формы" />
+			<Item Name="LocalizableStrings.RelationshipTabCaption.Value" Value="Взаимосвязи" />
+			<Item Name="LocalizableStrings.ShowItemsCaption.Value" Value="ShowItemsCaption" />
+			<Item Name="LocalizableStrings.StandardErrorCaption.Value" Value="Ошибка в заполнении колонки. См. настройки правил ввода." />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Подписаться на обновление ленты" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Вы подписаны на обновление ленты: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Хронология" />
+			<Item Name="LocalizableStrings.TouchDetailDetailCaptionOnPage.Value" Value="Сессии на сайте" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Отписаться от обновлений ленты" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Вы отписаны от обновлений ленты: {0}" />
+			<Item Name="LocalizableStrings.ValidationMessage.Value" Value="заполнены с нарушением установленных условий валидации." />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "bef02e2b-7456-4934-8ff7-9c5c37757c74",
+    "Name": "UsrSchemafc70a768Detail",
+    "ModifiedOnUtc": "\/Date(1702027314000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Тип сети\"",
+    "DependsOn": []
+  }
+}

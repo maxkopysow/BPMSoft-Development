@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "38491461-3947-1d1a-5f4e-5fc05b5f4d81",
+    "Name": "Development",
+    "BPMSoftVersion": "1.2.0",
+    "ModifiedOnUtc": "\/Date(1702018777000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "fe1effeb-74f2-42c5-b5e1-dfe0313b86bf",
+        "PackageVersion": "1.0.0",
+        "Name": "Constructor"
+      }
+    ]
+  }
+}

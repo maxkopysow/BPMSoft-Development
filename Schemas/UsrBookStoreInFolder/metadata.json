@@ -1,0 +1,49 @@
+= MetaData.Schema.UId "5f52fe34-c947-46a1-be89-08024d53a072"
+= MetaData.Schema.A2 "UsrBookStoreInFolder"
+= MetaData.Schema.A5 "3040da66-cdbd-4b7c-9ca5-d6933f9c58ae"
+= MetaData.Schema.B6 "38491461-3947-1d1a-5f4e-5fc05b5f4d81"
+= MetaData.Schema.B8 "1.2.0.3013"
+= MetaData.Schema.EG1.UId "643b58b0-9321-44f6-944f-2027b0bfc578"
+= MetaData.Schema.EG1.A2 "UsrBookStoreInFolderEventsProcess"
+= MetaData.Schema.EG1.A5 "3040da66-cdbd-4b7c-9ca5-d6933f9c58ae"
+= MetaData.Schema.EG1.B1 []
+= MetaData.Schema.EG1.B3 []
++ MetaData.Schema.EG1.B8 "1.2.0.3013"
+= MetaData.Schema.EG1.FJ1 []
++ MetaData.Schema.EG1.BK8 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK3 []
+= MetaData.Schema.EG1.BK4 []
++ MetaData.Schema.EG1.Labels []
++ MetaData.Schema.D17 true
+= MetaData.Schema.D8 "4f63bafb-e9e7-4082-b92e-66b97c14017c"
+= MetaData.Schema.D2.["9e46bb69-9788-423c-b7cd-4c624081082d"].S4 "7b3529b1-5962-4562-a3af-3f459ca24f48"
++ MetaData.Schema.D2 {
+  "UId": "ac4c9eac-7b2f-4941-b6f7-420bb82066ec",
+  "A2": "UsrBookStore",
+  "A3": "5f52fe34-c947-46a1-be89-08024d53a072",
+  "A4": "5f52fe34-c947-46a1-be89-08024d53a072",
+  "A5": "3040da66-cdbd-4b7c-9ca5-d6933f9c58ae",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "ab38693a-0004-43f5-9c25-b41282414527",
+  "E2": 1,
+  "E5": false,
+  "E9": true,
+  "E17": "UsrBookStoreId",
+  "E18": "UsrBookStoreUsrName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","9e46bb69-9788-423c-b7cd-4c624081082d","3fabd836-6a53-4d8d-9069-6df88d9dae1e","ac4c9eac-7b2f-4941-b6f7-420bb82066ec"]
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["9e46bb69-9788-423c-b7cd-4c624081082d"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

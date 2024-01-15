@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f8d46189-de24-4bf3-af7e-62655e3cb438",
+    "Name": "UsrEngeneeringInTag",
+    "ModifiedOnUtc": "\/Date(1702018974000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела  Инженерия",
+    "DependsOn": []
+  }
+}

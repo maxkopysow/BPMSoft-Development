@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e88537f8-6bd2-438d-afe0-474953ad6cba",
+    "Name": "UsrSchemad06fc1f6Detail",
+    "ModifiedOnUtc": "\/Date(1702027815000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Проведенные ревизии\"",
+    "DependsOn": []
+  }
+}

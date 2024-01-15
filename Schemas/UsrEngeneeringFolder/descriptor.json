@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d8040da4-c9b7-4e66-aaac-857a8f3ee6cb",
+    "Name": "UsrEngeneeringFolder",
+    "ModifiedOnUtc": "\/Date(1702018966000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа  Инженерия",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "03dad8c0-3bb2-4615-a291-f21e91ee6a9b",
+    "Name": "UsrBookStoreTag",
+    "ModifiedOnUtc": "\/Date(1702021343000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела BookStore",
+    "DependsOn": []
+  }
+}

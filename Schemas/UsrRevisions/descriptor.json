@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a0780531-461c-4c7e-bac5-83f4bb3ce949",
+    "Name": "UsrRevisions",
+    "ModifiedOnUtc": "\/Date(1702027832000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Проведенные ревизии",
+    "DependsOn": []
+  }
+}

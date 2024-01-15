@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b4db33a1-8c94-4646-b535-72261658f112",
+    "Name": "UsrBookStored1c4f56aSection",
+    "ModifiedOnUtc": "\/Date(1702896797000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"BookStore\"",
+    "DependsOn": []
+  }
+}
